@@ -1,0 +1,30 @@
+h1 {
+    background-color: black;
+    font-size:75px;
+    color: hsl(272, 84%, 49%);
+    text-align: center;
+  }
+  h2 {
+    color: hsl(350, 76%, 50%);
+    text-align: center;
+  }
+  p,
+li {
+    color: hwb(0 7% 18%);
+  }
+li {
+    list-style-type: none;
+  }
+  .special {
+    color: rgb(19, 221, 39);
+    font-weight: bold;
+  }
+  a{
+    color: hsl(317, 82%, 44%);text-decoration:none;
+}
+a:hover{
+color:#81D8D0;background:rgb(182, 30, 209)
+}
+  a:visited {
+    color: #b47fc7;
+  }
